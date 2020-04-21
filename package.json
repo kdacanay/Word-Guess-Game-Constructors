@@ -1,0 +1,23 @@
+{
+  "name": "Word-Guess-Game-Constructors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdacanay/Word-Guess-Game-Constructors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdacanay/Word-Guess-Game-Constructors/issues"
+  },
+  "homepage": "https://github.com/kdacanay/Word-Guess-Game-Constructors#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
