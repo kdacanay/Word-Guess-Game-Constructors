@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kdacanay/Word-Guess-Game-Constructors#readme",
   "dependencies": {
-    "inquirer": "^7.1.0"
+    "inquirer": "^7.1.0",
+    "prompt": "^1.0.0"
   }
 }
