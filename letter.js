@@ -21,7 +21,7 @@ function Letter (letter) {
     this.check = false;
 
 //---------function to determine whether to return letter or return underscore is displayed 
-    this.guessedCharacter = function () {
+    this.guessLetter = function () {
     if (this.check) {
     
         this.check = false;
